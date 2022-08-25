@@ -14,7 +14,7 @@ After downloading the files, you can simply import this files directly into your
 In this project, machine learning model will predict the probability whether the customer will buy the product after advertisment is sent indicated by binary target **Potential Customer**
 
 The group of potential buyer can be classified as per follow.
-![Alt Text](https://github.com/HaziqRai/Target-Market-Analysis/blob/main/images/workflow.png)
+![Alt Text](https://github.com/HaziqRai/Target-Market-Analysis/Snapshot/Potential-20Buyer-20Group.JPG)
 
 This ML Model developed end-to-end with Dataiku DSS Platform.
 ![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/transaction.gif)
